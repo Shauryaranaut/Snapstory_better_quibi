@@ -1,2 +1,17 @@
 # Snapstory_better_quibi
-this was a project for a hackathon, in which we tried to build a prototype for a better app then quibi with some additional features that we tried to add 
+Core Features:
+Vertical video player
+AI-generated video summaries
+Personalized recommendations
+Mobile-first design
+User authentication
+
+Frontend (React)
+        |
+Backend API (Node + Express)
+        |
+postgre sql
+        |
+AI Microservice (openAI API)
+
+
